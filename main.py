@@ -1,0 +1,1 @@
+# Dummy Python file for generative-ai-art-platform\n\ndef generate_art(prompt):\n    # Placeholder for generative art logic\n    print(f"Generating art for: {prompt}")\n    return "art_image.png"\n\nif __name__ == "__main__":\n    art_prompt = "a cat in space"\n    image = generate_art(art_prompt)\n    print(f"Generated image: {image}")
